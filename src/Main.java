@@ -13,7 +13,7 @@ public class Main {
 //
 //        bookTable.addBooks(book1);
 //        bookTable.addBooks(book2);
-//        bookTable.addBooks(book3);
+//        bookTable.addBavooks(book3);
           bookTable.addBooks(book4);
 //        List<Books> allBooks = bookTable.getAllBooks();
 //        allBooks.forEach(System.out::println);
